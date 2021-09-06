@@ -1,0 +1,2 @@
+原工程是eclipse下的javafx工程，eclipse需要装好运行javafx工程的所有插件。
+打开工程后在打开Main.class文件的状态下点击run即可运行。
